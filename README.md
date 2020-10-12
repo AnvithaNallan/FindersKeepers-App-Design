@@ -20,7 +20,7 @@ After doing this initial basic research, I started off with a *content map* and 
 ### :art: Abstract to Structured
 After I was satisfied with the sitemap, I designed **basic wireframes** using **Adobe XD**. I mapped out my entire app through these wireframes. Next, I did some **visual research** and decided what my app was going to look like. I decided on *black and blue*, because I wanted a serious look for the app. Then I proceeded to make mockups of my app using these colors and some good typography and icons and then **prototyped** the entire app with subtle but effective transitions and small animations where I thought it was necessary.
 
-## :computer: Software Used:
+## :computer: Software Used
 - Adobe Illustrator
 
 - Adobe XD
